@@ -1,0 +1,7 @@
+/**
+
+ */
+function refillAll(){
+  refillIdeasSheets();
+  refillFormIdeasCheckboxes();
+}
